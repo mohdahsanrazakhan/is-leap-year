@@ -1,0 +1,23 @@
+{
+  "name": "@md_mark/is-leap-year",
+  "version": "1.0.0",
+  "description": "It is a simple npm package that allows you to check whether a given year is a leap year or a common year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mohdahsanrazakhan/is-leap-year)"
+  },
+  "keywords": [
+    "leap-year",
+    "common-year",
+    "year-validation",
+    "calender",
+    "time-and-date",
+    "date-calculations"
+  ],
+  "author": "md_mark",
+  "license": "ISC"
+}
